@@ -12,13 +12,14 @@
 -	Save the data using file handling.
 
 # Execution 
--	Run the code.
--	Choose a Feature.
--	Follow the instructions.
--	Your data will be saved successfully.
+-	Open any c compiler(Turbo c++,Code blocks,vs code etc.)
+-	Run and compile the code.
+-	Choose any feature from the options.
+-	Follow the instructions displayed on screen.
+-	Your data will be saved automatically.
 
 # Language used
--	C.
+-	Programming language:C.
 
 # Concept used
 -	Array.
