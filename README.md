@@ -1,7 +1,7 @@
 # Craft management system #
 # About
--  This is the system which is useful for Crafters to
- Manage the materials used for crafts.
+-  The Craft management system is the C program which is useful for Crafters to
+ Manage and organize the materials used for crafts.
 
 # Features
 -	Add craft materials.
